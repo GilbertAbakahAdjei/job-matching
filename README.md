@@ -1,8 +1,8 @@
 # JOB MATCHING APPLICATION
 
 This application basically matches jobs to users who are signed in; considering features such as:
-education level, skills, geographic location, years of experience and current job title to do the matching. It also allows for 
-recruiters to sign in as admins to post jobs.
+education level, skills, geographic location, years of experience and current job title to do the matching. It also allows 
+Recruiters to sign in as admins to post jobs.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine
